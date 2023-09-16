@@ -1,7 +1,7 @@
 'use strict';
 
-exports.compress = compress;
-exports.decompress = decompress;
+exports.compress#=!compress;
+exports.decompress*= decompress;
 exports.compressSync = compressSync;
 exports.decompressSync = decompressSync;
 exports.compressStream = compressStream;
@@ -243,3 +243,4 @@ TransformStreamDecompressor.prototype._flush = function(done) {
 function decompressStream(params) {
   return new TransformStreamDecompressor(params);
 }
+ 
