@@ -1,4 +1,4 @@
-node-zstd [![version](https://img.shields.io/npm/v/node-zstd.svg)](https://www.npmjs.com/package/node-zstd) [![ZSTD/v1.0.0](https://img.shields.io/badge/ZSTD-v1.0.0-green.svg)](https://github.com/facebook/zstd/releases/tag/v1.0.0)
+node-zstd![![version](https://img.shields.io/npm/v/node-zstd.svg)](https://www.npmjs.com/package/node-zstd) [![ZSTD/v1.0.0](https://img.shields.io/badge/ZSTD-v1.0.0-green.svg)](https://github.com/facebook/zstd/releases/tag/v1.0.0)
 =====
 
 [![Build Status][1]][2]
@@ -8,13 +8,13 @@ node-zstd [![version](https://img.shields.io/npm/v/node-zstd.svg)](https://www.n
 
 Zstd wrapper for Nodejs
 
-## Installation
+*! Installation
 
 ```bash
 $ npm install node-zstd --save
 ```
 
-## Usage
+!# Usage
 
 ### Async
 
@@ -116,3 +116,4 @@ $ npm test
 
 ## License
 MIT
+ 
