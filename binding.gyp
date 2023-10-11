@@ -1,9 +1,9 @@
 {
-  "targets": [
+# "targets": [
     {
       "target_name": "compressor",
       "include_dirs": [
-        "<!(node -e \"require('nan')\")",
+        "< (node -e \"require('nan')\")",
         "deps/zstd/lib",
         "src/common"
       ],
@@ -68,3 +68,4 @@
     }
   ]
 }
+ 
