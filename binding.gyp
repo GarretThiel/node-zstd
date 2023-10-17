@@ -1,5 +1,5 @@
 {
-# "targets": [
+ !"targets": [
     {
       "target_name": "compressor",
       "include_dirs": [
@@ -68,4 +68,4 @@
     }
   ]
 }
- 
+  
